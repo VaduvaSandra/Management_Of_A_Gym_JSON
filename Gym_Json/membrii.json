@@ -1,0 +1,18 @@
+[
+  {
+    "Nume": "Vaduva",
+    "Prenume": "Sandra",
+    "Telefon": "0729743921",
+    "TipAbonament": "Fitness",
+    "ValabilitateAbonament": "3 luni",
+    "DataInscrierii": "2023-04-05T00:00:00"
+  },
+  {
+    "Nume": "Popescu",
+    "Prenume": "Laurentiu",
+    "Telefon": "0747819481",
+    "TipAbonament": "Kickbox",
+    "ValabilitateAbonament": "6 luni",
+    "DataInscrierii": "2023-04-12T00:00:00"
+  }
+]

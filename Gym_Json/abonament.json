@@ -1,0 +1,16 @@
+[
+  {
+    "Nume": "Vaduva",
+    "Prenume": "Sandra",
+    "TipAbonament": "Fitness",
+    "ValabilitateAbonament": "3 luni",
+    "Pret": "200"
+  },
+  {
+    "Nume": "Popescu",
+    "Prenume": "Laurentiu",
+    "TipAbonament": "Kickbox",
+    "ValabilitateAbonament": "6 luni",
+    "Pret": "300"
+  }
+]

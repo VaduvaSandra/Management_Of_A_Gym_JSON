@@ -1,0 +1,20 @@
+[
+  {
+    "Nume": "Rece",
+    "Prenume": "Marius",
+    "Categorie": "Fitness",
+    "Perioada": "Dupa-amiaza(12:00-18:00)"
+  },
+  {
+    "Nume": "Truica",
+    "Prenume": "Gabriela",
+    "Categorie": "Yoga",
+    "Perioada": "Dimineata(08:00-12:00)"
+  },
+  {
+    "Nume": "Popa",
+    "Prenume": "Laurentiu",
+    "Categorie": "Kickbox",
+    "Perioada": "Seara(18:00-23:00)"
+  }
+]
